@@ -70,7 +70,7 @@ CREATE TABLE IF NOT EXISTS `customer` (
 --
 
 INSERT INTO `customer` (`id`, `name`, `surname`, `email`, `passwords`) VALUES
-(1, 'Bayram', 'ANLI', 'bayramanli@mail.com', '25f9e794323b453885f5181f1b624d0b');
+(1, 'Bayram', 'ANLI', 'user@mail.com', '25f9e794323b453885f5181f1b624d0b');
 
 -- --------------------------------------------------------
 
