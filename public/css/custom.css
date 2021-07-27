@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(245, 245, 245);
+}
+
+.product-count {
+    color: rgb(241, 30, 30);
+    font-weight: bold;
+}
+
+.item-count-input {
+    width: 50px;
+    text-align: center;
+}
+
+table {
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, .4);
+}
+
