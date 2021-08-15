@@ -17,6 +17,7 @@ define('DBHOST','localhost'); // veritabanı sunucu adı
 define('DBUSER','username'); // veritabanı kullanıcı adı
 define('DBPASS','password'); // veritabanı şifre
 define('DBNAME','db_name'); // veritabanı adı
+```
 
 ## Giriş Bilgileri
 **Email Adresi:** user@mail.com
